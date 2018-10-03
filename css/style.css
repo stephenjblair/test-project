@@ -31,12 +31,14 @@ nav a:hover {
     margin-left: 10%;
     
 }
-.cara a {
+.card a {
     text-align: center;
 }
 img {
     width: 100%;
-}
+    height: 200px;
+   
 h1 {
     text-align: center;
 }
+
