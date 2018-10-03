@@ -1,2 +1,2 @@
 # Cloud 9 IDE/Github exercise
-Created in Cloud 9 IDE
+A simple project created in Cloud 9 IDE using HTML 5 and CSS3.
